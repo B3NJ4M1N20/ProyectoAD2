@@ -1,0 +1,212 @@
+2024-06-06 00:40:00,063 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 00:40:00,927 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 00:45:20,581 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 00:45:21,166 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 00:45:21,168 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-06 00:45:21,168 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-06 00:45:21,736 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-06 00:45:21,737 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-06 00:45:23,134 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 201 2048
+2024-06-06 00:45:23,136 - INFO - Archivo datos.json creado exitosamente en GitHub.
+2024-06-06 02:49:29,609 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 02:49:30,321 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 02:49:30,324 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-06 02:49:30,324 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-06 02:49:30,969 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 200 None
+2024-06-06 02:49:30,973 - DEBUG - Contenido de 'datos.json' obtenido exitosamente
+2024-06-06 02:53:57,176 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 02:53:57,836 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 02:55:00,082 - DEBUG - Intentando subir archivo a 'PPP.SA'
+2024-06-06 02:55:00,082 - DEBUG - Intentando obtener contenido de 'PPP.SA'
+2024-06-06 02:55:00,087 - DEBUG - Resetting dropped connection: api.github.com
+2024-06-06 02:55:00,692 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/PPP.SA HTTP/1.1" 404 None
+2024-06-06 02:55:00,695 - ERROR - Archivo o carpeta 'PPP.SA' no encontrado en GitHub.
+2024-06-06 02:55:01,507 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/PPP.SA HTTP/1.1" 201 2020
+2024-06-06 02:55:01,509 - INFO - Archivo PPP.SA creado exitosamente en GitHub.
+2024-06-06 02:55:50,206 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 02:55:50,920 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 02:56:19,222 - DEBUG - Intentando subir archivo a 'PaPaPu.SA'
+2024-06-06 02:56:19,223 - DEBUG - Intentando obtener contenido de 'PaPaPu.SA'
+2024-06-06 02:56:19,553 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/PaPaPu.SA HTTP/1.1" 404 None
+2024-06-06 02:56:19,555 - ERROR - Archivo o carpeta 'PaPaPu.SA' no encontrado en GitHub.
+2024-06-06 02:56:20,414 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/PaPaPu.SA HTTP/1.1" 201 2041
+2024-06-06 02:56:20,415 - INFO - Archivo PaPaPu.SA creado exitosamente en GitHub.
+2024-06-06 03:00:21,135 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 03:00:22,583 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 03:00:39,051 - DEBUG - Intentando subir archivo a 'ConfiguracionPPA.SA'
+2024-06-06 03:00:39,051 - DEBUG - Intentando obtener contenido de 'ConfiguracionPPA.SA'
+2024-06-06 03:00:39,474 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfiguracionPPA.SA HTTP/1.1" 404 None
+2024-06-06 03:00:39,475 - ERROR - Archivo o carpeta 'ConfiguracionPPA.SA' no encontrado en GitHub.
+2024-06-06 03:00:40,365 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfiguracionPPA.SA HTTP/1.1" 201 2111
+2024-06-06 03:00:40,368 - INFO - Archivo ConfiguracionPPA.SA creado exitosamente en GitHub.
+2024-06-06 03:08:19,206 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 03:08:19,932 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 03:08:26,266 - DEBUG - Intentando subir archivo a 'ConfPPP.SA'
+2024-06-06 03:08:26,266 - DEBUG - Intentando obtener contenido de 'ConfPPP.SA'
+2024-06-06 03:08:26,733 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfPPP.SA HTTP/1.1" 404 None
+2024-06-06 03:08:26,735 - ERROR - Archivo o carpeta 'ConfPPP.SA' no encontrado en GitHub.
+2024-06-06 03:08:27,746 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfPPP.SA HTTP/1.1" 201 2048
+2024-06-06 03:08:27,748 - INFO - Archivo ConfPPP.SA creado exitosamente en GitHub.
+2024-06-06 03:11:21,368 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 03:11:22,113 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 03:11:45,687 - DEBUG - Intentando subir archivo a 'ConfPaPaPu.SA'
+2024-06-06 03:11:45,687 - DEBUG - Intentando obtener contenido de 'ConfPaPaPu.SA'
+2024-06-06 03:11:46,105 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfPaPaPu.SA HTTP/1.1" 404 None
+2024-06-06 03:11:46,107 - ERROR - Archivo o carpeta 'ConfPaPaPu.SA' no encontrado en GitHub.
+2024-06-06 03:11:47,049 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfPaPaPu.SA HTTP/1.1" 201 2069
+2024-06-06 03:11:47,050 - INFO - Archivo ConfPaPaPu.SA creado exitosamente en GitHub.
+2024-06-06 03:13:25,197 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 03:13:26,039 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 03:13:28,179 - DEBUG - Intentando subir archivo a 'Norte'
+2024-06-06 03:13:28,180 - DEBUG - Intentando obtener contenido de 'Norte'
+2024-06-06 03:13:28,564 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/Norte HTTP/1.1" 404 None
+2024-06-06 03:13:28,565 - ERROR - Archivo o carpeta 'Norte' no encontrado en GitHub.
+2024-06-06 03:13:29,523 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/Norte HTTP/1.1" 201 2013
+2024-06-06 03:13:29,526 - INFO - Archivo Norte creado exitosamente en GitHub.
+2024-06-06 03:16:44,490 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 03:16:45,185 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 03:16:47,860 - DEBUG - Intentando subir archivo a 'SUR'
+2024-06-06 03:16:47,860 - DEBUG - Intentando obtener contenido de 'SUR'
+2024-06-06 03:16:48,288 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/SUR HTTP/1.1" 404 None
+2024-06-06 03:16:48,290 - ERROR - Archivo o carpeta 'SUR' no encontrado en GitHub.
+2024-06-06 03:16:49,202 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/SUR HTTP/1.1" 201 1999
+2024-06-06 03:16:49,204 - INFO - Archivo SUR creado exitosamente en GitHub.
+2024-06-06 09:50:56,302 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:50:57,183 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:51:02,831 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:51:03,500 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:51:03,505 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:51:04,430 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:51:13,118 - DEBUG - Intentando subir archivo a 'NORTE'
+2024-06-06 09:51:13,118 - DEBUG - Intentando obtener contenido de 'NORTE'
+2024-06-06 09:51:13,887 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/NORTE HTTP/1.1" 404 None
+2024-06-06 09:51:13,888 - ERROR - Archivo o carpeta 'NORTE' no encontrado en GitHub.
+2024-06-06 09:51:14,912 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/NORTE HTTP/1.1" 201 2013
+2024-06-06 09:51:14,916 - INFO - Archivo NORTE creado exitosamente en GitHub.
+2024-06-06 09:51:24,159 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:51:37,922 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:51:57,892 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:54:22,203 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:54:23,517 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:54:23,522 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:54:24,167 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:54:39,092 - DEBUG - Intentando subir archivo a 'ConfiguracionRED'
+2024-06-06 09:54:39,092 - DEBUG - Intentando obtener contenido de 'ConfiguracionRED'
+2024-06-06 09:54:39,630 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfiguracionRED HTTP/1.1" 404 None
+2024-06-06 09:54:39,631 - ERROR - Archivo o carpeta 'ConfiguracionRED' no encontrado en GitHub.
+2024-06-06 09:54:40,598 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/ConfiguracionRED HTTP/1.1" 201 2090
+2024-06-06 09:54:40,601 - INFO - Archivo ConfiguracionRED creado exitosamente en GitHub.
+2024-06-06 09:54:45,321 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:54:45,970 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:05,530 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:06,469 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:06,474 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:07,448 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:10,612 - DEBUG - Intentando subir archivo a 'RED1'
+2024-06-06 09:59:10,621 - DEBUG - Intentando obtener contenido de 'RED1'
+2024-06-06 09:59:11,027 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/RED1 HTTP/1.1" 404 None
+2024-06-06 09:59:11,028 - ERROR - Archivo o carpeta 'RED1' no encontrado en GitHub.
+2024-06-06 09:59:12,413 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/RED1 HTTP/1.1" 201 2006
+2024-06-06 09:59:12,414 - INFO - Archivo RED1 creado exitosamente en GitHub.
+2024-06-06 09:59:14,648 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:15,440 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:15,443 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:16,047 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:16,049 - DEBUG - Intentando descargar archivo de 'datos.json'
+2024-06-06 09:59:16,050 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-06 09:59:16,765 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 200 None
+2024-06-06 09:59:16,766 - DEBUG - Contenido de 'datos.json' obtenido exitosamente
+2024-06-06 09:59:23,648 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:24,787 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:24,796 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:25,509 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 09:59:28,628 - DEBUG - Intentando subir archivo a 'RED2'
+2024-06-06 09:59:28,629 - DEBUG - Intentando obtener contenido de 'RED2'
+2024-06-06 09:59:29,165 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/RED2 HTTP/1.1" 404 None
+2024-06-06 09:59:29,167 - ERROR - Archivo o carpeta 'RED2' no encontrado en GitHub.
+2024-06-06 09:59:30,083 - DEBUG - https://api.github.com:443 "PUT /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/RED2 HTTP/1.1" 201 2006
+2024-06-06 09:59:30,104 - INFO - Archivo RED2 creado exitosamente en GitHub.
+2024-06-06 09:59:46,898 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 09:59:47,919 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-06 10:03:35,444 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-06 10:03:36,257 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 22:41:56,841 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 22:41:57,473 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 22:49:23,793 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 22:49:29,454 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 22:49:42,942 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 22:49:43,523 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 22:50:37,894 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 22:50:38,525 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 22:55:14,411 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 22:55:14,900 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 22:58:29,969 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 22:58:30,522 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:01:25,882 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:01:26,794 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:03:26,448 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:03:27,067 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:05:29,425 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:05:29,914 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:08:45,456 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:08:46,090 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:15:37,817 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:15:38,309 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:19:48,811 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:19:49,323 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:22:24,325 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:22:24,853 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:40:42,134 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:40:42,620 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:42:56,678 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:42:57,181 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:48:24,929 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:48:25,442 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:50:24,786 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:50:25,286 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-07 23:54:10,045 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-07 23:54:10,530 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:00:01,256 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:00:02,935 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:00:10,190 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:00:13,862 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:00:33,498 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:00:34,087 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:02:31,838 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:02:32,393 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:02:36,026 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-08 00:02:36,026 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:02:36,379 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:02:36,385 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 00:02:50,949 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-08 00:02:50,949 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:02:51,313 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:02:51,314 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 00:02:57,468 - DEBUG - Intentando descargar archivo de 'datos.json'
+2024-06-08 00:02:57,468 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:02:57,814 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:02:57,815 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 00:04:05,024 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:04:05,533 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:04:09,310 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-08 00:04:09,311 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:04:09,651 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:04:09,652 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 00:04:28,171 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:04:28,700 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:04:30,207 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-08 00:04:30,207 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:04:30,564 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:04:30,565 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 00:04:32,136 - DEBUG - Intentando descargar archivo de 'datos.json'
+2024-06-08 00:04:32,136 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:04:32,483 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:04:32,485 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 00:07:17,265 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 00:07:17,791 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
+2024-06-08 00:07:19,645 - DEBUG - Intentando subir archivo a 'datos.json'
+2024-06-08 00:07:19,646 - DEBUG - Intentando obtener contenido de 'datos.json'
+2024-06-08 00:07:19,976 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas/contents/datos.json HTTP/1.1" 404 None
+2024-06-08 00:07:19,977 - ERROR - Archivo o carpeta 'datos.json' no encontrado en GitHub.
+2024-06-08 04:10:34,178 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-06-08 04:10:34,852 - DEBUG - https://api.github.com:443 "GET /repos/B3NJ4M1N20/LabRedesAvanzadas HTTP/1.1" 200 None
